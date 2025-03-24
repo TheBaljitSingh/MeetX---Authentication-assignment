@@ -3,10 +3,11 @@
 ## Overview
 This is the backend application for managing the core functionality of the project. It provides APIs and services to handle business logic, database interactions, and user authentication.
 
-there is three route 
-/login - to login
-/register - to register
-/secure - only authenticated user will be able to access
+# Feature
+-  there is three route 
+- /login - to login
+- /register - to register
+- /secure - only authenticated user will be able to access
 
 ## Features
 - User authentication and authorization
